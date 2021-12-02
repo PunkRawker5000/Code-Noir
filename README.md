@@ -5,3 +5,4 @@ I am brand new to coding, so this project will be very simple
 I don't have a dead line that I want to finish this thing by.
 I'll basically just be working on this when I have free time. 
 Here, I'll be uploading scenes that may or may not make it into the final product. 
+Also, I'm making this thing in C#. 
